@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: nw18-grammar-feedback-agent
+Version: 0.1.0
+Summary: A package for grammar analysis using Azure OpenAI.
+Home-page: https://github.com/praveenchats/grammar_feedback_agent
+Author: Praveen Kumar
+Author-email: your.email@organization.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Private :: Do Not Upload
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: openai==1.43.0
+Requires-Dist: python-dotenv==1.0.1
+Requires-Dist: httpx==0.27.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
